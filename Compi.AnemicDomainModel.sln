@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{C6F844C5-82EF-450C-93A3-4E4B640A5394}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Compi.AnemicDomailModel.ConsoleApp", "src\AnemicDomainModel\Compi.AnemicDomailModel.ConsoleApp\Compi.AnemicDomailModel.ConsoleApp.csproj", "{680E8B72-4D37-4447-A871-F03050441CE1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "AnemicDomainModel", "AnemicDomainModel", "{6AC3B9EE-90E1-443A-9CCE-4FA7C62AD490}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "RichDomainModel", "RichDomainModel", "{F9B88B4B-EC40-477F-BD24-822735094711}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{680E8B72-4D37-4447-A871-F03050441CE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{680E8B72-4D37-4447-A871-F03050441CE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{680E8B72-4D37-4447-A871-F03050441CE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{680E8B72-4D37-4447-A871-F03050441CE1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{680E8B72-4D37-4447-A871-F03050441CE1} = {6AC3B9EE-90E1-443A-9CCE-4FA7C62AD490}
+		{6AC3B9EE-90E1-443A-9CCE-4FA7C62AD490} = {C6F844C5-82EF-450C-93A3-4E4B640A5394}
+		{F9B88B4B-EC40-477F-BD24-822735094711} = {C6F844C5-82EF-450C-93A3-4E4B640A5394}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {70F80465-D557-4D89-AD0D-5300A7FC5559}
+	EndGlobalSection
+EndGlobal
