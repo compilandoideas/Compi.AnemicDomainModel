@@ -1,0 +1,2 @@
+﻿https://khalilstemmler.com/wiki/anemic-domain-model/
+https://brightmarbles.io/blog/problem-with-anemic-domain-models/
